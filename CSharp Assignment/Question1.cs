@@ -34,7 +34,7 @@ namespace CSharp_Assignment
             Console.WriteLine("------------------------------------------------------------------------------");
 
             double amount  = CalculateAmount();
-            Console.WriteLine("Total Amount: "+amount);
+            Console.WriteLine("Total Amount: "+Math.Round(amount));
         }
 
         private static void InitializeProductList()

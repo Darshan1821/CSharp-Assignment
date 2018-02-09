@@ -1,0 +1,7 @@
+C:\Users\darshan\source\repos\CSharp Assignment 2\CSharp Assignment 2\bin\Debug\CSharp Assignment 2.exe.config
+C:\Users\darshan\source\repos\CSharp Assignment 2\CSharp Assignment 2\bin\Debug\CSharp Assignment 2.exe
+C:\Users\darshan\source\repos\CSharp Assignment 2\CSharp Assignment 2\bin\Debug\CSharp Assignment 2.pdb
+C:\Users\darshan\source\repos\CSharp Assignment 2\CSharp Assignment 2\obj\Debug\CSharp Assignment 2.csprojResolveAssemblyReference.cache
+C:\Users\darshan\source\repos\CSharp Assignment 2\CSharp Assignment 2\obj\Debug\CSharp Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\darshan\source\repos\CSharp Assignment 2\CSharp Assignment 2\obj\Debug\CSharp Assignment 2.exe
+C:\Users\darshan\source\repos\CSharp Assignment 2\CSharp Assignment 2\obj\Debug\CSharp Assignment 2.pdb
